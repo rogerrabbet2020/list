@@ -1,2 +1,194 @@
-#EXTINF:10.000000,TVG-ID="Channel1" tvg-name="Channel 1"
-http://example.com/stream1.ts
+#EXTINF:10.000000,TVG-ID="1" tvg-name="ABC East"
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:10.000000,TVG-ID="2" tvg-name="ACC Network"
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:10.000000,TVG-ID="3" tvg-name="AMC Network"
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:10.000000,TVG-ID="4" tvg-name="Animal Planet"
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:10.000000,TVG-ID="5" tvg-name="BBC America"
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:10.000000,TVG-ID="6" tvg-name="BBC World"
+http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:10.000000,TVG-ID="7" tvg-name="BEIN Sports"
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:10.000000,TVG-ID="8" tvg-name="Big Ten Network"
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:10.000000,TVG-ID="9" tvg-name="Bloomberg"
+http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:10.000000,TVG-ID="10" tvg-name="Boomerang"
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:10.000000,TVG-ID="11" tvg-name="Bravo"
+http://fl2.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:10.000000,TVG-ID="12" tvg-name="Buzzr"
+http://fl3.moveonjoy.com/Buzzr/index.m3u8
+#EXTINF:10.000000,TVG-ID="12" tvg-name="C-Span"
+http://fl2.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:10.000000,TVG-ID="13" tvg-name="Cartoon Network"
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:10.000000,TVG-ID="14" tvg-name="CBS East"
+http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:10.000000,TVG-ID="15" tvg-name="CBS Sports Network"
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:10.000000,TVG-ID="16" tvg-name="Cinemax"
+http://fl5.moveonjoy.com/CINEMAX/index.m3u8
+#EXTINF:10.000000,TVG-ID="17" tvg-name="Cinemax East"
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:10.000000,TVG-ID="18" tvg-name="Cinemax West"
+http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
+#EXTINF:10.000000,TVG-ID="19" tvg-name="Cinema Moremax"
+http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+#EXTINF:10.000000,TVG-ID="20" tvg-name="CMT"
+http://fl3.moveonjoy.com/CMT/index.m3u8
+#EXTINF:10.000000,TVG-ID="21" tvg-name="CNBC"
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:10.000000,TVG-ID="22" tvg-name="CNN"
+http://fl2.moveonjoy.com/CNN/index.m3u8
+#EXTINF:10.000000,TVG-ID="23" tvg-name="Comedy Central"
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:10.000000,TVG-ID="24" tvg-name="Cooking Channel"
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:10.000000,TVG-ID="25" tvg-name="Destination America"
+http://fl3.moveonjoy.com/Destination_America/index.m3u8
+#EXTINF:10.000000,TVG-ID="26" tvg-name="Disovery Channel"
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:10.000000,TVG-ID="27" tvg-name="Disney Channel"
+http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:10.000000,TVG-ID="28" tvg-name="DIY"
+http://fl2.moveonjoy.com/DIY/index.m3u8
+#EXTINF:10.000000,TVG-ID="29" tvg-name="Epix"
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:10.000000,TVG-ID="30" tvg-name="Epix 2"
+http://fl2.moveonjoy.com/EPIX_2/index.m3u8
+#EXTINF:10.000000,TVG-ID="31" tvg-name="Epix Drive In"
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:10.000000,TVG-ID="32" tvg-name="Epix Hits"
+http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
+#EXTINF:10.000000,TVG-ID="33" tvg-name="ESPN2"
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:10.000000,TVG-ID="34" tvg-name="Food Network"
+http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:10.000000,TVG-ID="35" tvg-name="Fox East"
+http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:10.000000,TVG-ID="36" tvg-name="Fox News"
+http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
+#EXTINF:10.000000,TVG-ID="37" tvg-name="Fox Sport 1"
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:10.000000,TVG-ID="38" tvg-name="Fox Sports 2"
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+#EXTINF:10.000000,TVG-ID="39" tvg-name="FX"
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:10.000000,TVG-ID="40" tvg-name="FX Movie"
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:10.000000,TVG-ID="41" tvg-name="FXX"
+http://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF:10.000000,TVG-ID="42" tvg-name="Game Show Network"
+http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
+#EXTINF:10.000000,TVG-ID="43" tvg-name="HBO
+http://fl5.moveonjoy.com/HBO/index.m3u8
+#EXTINF:10.000000,TVG-ID="44" tvg-name="HBO 2"
+http://fl5.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:10.000000,TVG-ID="45" tvg-name="HBO Comedy"
+http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:10.000000,TVG-ID="46" tvg-name="HBO Family"
+http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:10.000000,TVG-ID="45" tvg-name="DHBO Zone"
+http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:10.000000,TVG-ID="46" tvg-name="HGTV"
+http://fl5.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:10.000000,TVG-ID="47" tvg-name="HLN"
+http://fl2.moveonjoy.com/HLN/index.m3u8
+#EXTINF:10.000000,TVG-ID="48" tvg-name="HSN"
+http://fl2.moveonjoy.com/HSN/index.m3u8
+#EXTINF:10.000000,TVG-ID="49" tvg-name="Motor Tren"
+http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:10.000000,TVG-ID="50" tvg-name="MSG"
+http://fl3.moveonjoy.com/MSG/index.m3u8
+#EXTINF:10.000000,TVG-ID="51" tvg-name="MSNBC"
+http://fl2.moveonjoy.com/MSNBC/index.m3u8
+#EXTINF:10.000000,TVG-ID="52" tvg-name="MTV"
+http://fl2.moveonjoy.com/MTV/index.m3u8
+#EXTINF:10.000000,TVG-ID="53" tvg-name="MTV 2"
+http://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:10.000000,TVG-ID="54" tvg-name="MTV Live"
+http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:10.000000,TVG-ID="55" tvg-name="National Geographic"
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:10.000000,TVG-ID="56" tvg-name="Nat Geo Wild"
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:10.000000,TVG-ID="57" tvg-name="NBA TV"
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:10.000000,TVG-ID="58" tvg-name="NBC East"
+http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:10.000000,TVG-ID="59" tvg-name="NBC Sports Network"
+http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
+#EXTINF:10.000000,TVG-ID="60" tvg-name="News Nation"
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:10.000000,TVG-ID="61" tvg-name="Newsy"
+http://fl3.moveonjoy.com/Newsy/index.m3u8
+#EXTINF:10.000000,TVG-ID="62" tvg-name="Nickelodeon"
+http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:10.000000,TVG-ID="63" tvg-name="Outdoor Channel"
+http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:10.000000,TVG-ID="64" tvg-name="Oxygen"
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:10.000000,TVG-ID="65" tvg-name="Paramount Network"
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:10.000000,TVG-ID="66" tvg-name="Reelz"
+http://fl2.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:10.000000,TVG-ID="67" tvg-name="Showtime"
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:10.000000,TVG-ID="68" tvg-name="Showtime 2"
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:10.000000,TVG-ID="69" tvg-name="Showtime Extreme"
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:10.000000,TVG-ID="70" tvg-name="Showtime Next"
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:10.000000,TVG-ID="71" tvg-name="Stadium"
+http://fl2.moveonjoy.com/STADIUM/index.m3u8
+#EXTINF:10.000000,TVG-ID="72" tvg-name="Starz"
+http://fl5.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:10.000000,TVG-ID="73" tvg-name="Starz Comedy"
+http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:10.000000,TVG-ID="74" tvg-name="Sundance"
+http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:10.000000,TVG-ID="75" tvg-name="Syfy"
+http://fl5.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:10.000000,TVG-ID="76" tvg-name="TBS"
+http://fl2.moveonjoy.com/TBS/index.m3u8
+#EXTINF:10.000000,TVG-ID="77" tvg-name="The Weather Channel"
+http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:10.000000,TVG-ID="78" tvg-name="TLC"
+http://fl5.moveonjoy.com/TLC/index.m3u8
+#EXTINF:10.000000,TVG-ID="79" tvg-name="TNT"
+http://fl5.moveonjoy.com/TNT/index.m3u8
+#EXTINF:10.000000,TVG-ID="80" tvg-name="Travel Channel"
+http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
+#EXTINF:10.000000,TVG-ID="81" tvg-name="Tru TV"
+http://fl2.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:10.000000,TVG-ID="82" tvg-name="TSN 1"
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:10.000000,TVG-ID="83" tvg-name="TSN 2"
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:10.000000,TVG-ID="84" tvg-name="TSN 3"
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:10.000000,TVG-ID="85" tvg-name="TSN 4"
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:10.000000,TVG-ID="86" tvg-name="TSN 5"
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:10.000000,TVG-ID="87" tvg-name="UFC"
+http://fl1.moveonjoy.com/UFC/index.m3u8
+#EXTINF:10.000000,TVG-ID="88" tvg-name="USA"
+http://fl2.moveonjoy.com/USA_Network/index.m3u8
+#EXTINF:10.000000,TVG-ID="89" tvg-name="VH1"
+http://fl2.moveonjoy.com/VH1/index.m3u8
+#EXTINF:10.000000,TVG-ID="90" tvg-name="Viceland"
+http://fl2.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:10.000000,TVG-ID="91" tvg-name="We TV"
+http://fl2.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:10.000000,TVG-ID="92" tvg-name="WGN"
+http://fl2.moveonjoy.com/WGN/index.m3u8
+#EXTINF:10.000000,TVG-ID="93" tvg-name="WWE"
+http://fl2.moveonjoy.com/WWE/index.m3u8
+#EXTINF:10.000000,TVG-ID="94" tvg-name="Yes Network"
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
