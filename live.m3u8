@@ -1,4 +1,4 @@
-#EXTINF:10.000000,TVG-ID="1" tvg-name="ABC East"
+#EXTINF:10.000000, ABC East
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:10.000000,TVG-ID="2" tvg-name="ACC Network"
 http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
@@ -6,9 +6,9 @@ http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:10.000000,TVG-ID="4" tvg-name="Animal Planet"
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
-#EXTINF:10.000000,TVG-ID="5" tvg-name="BBC America"
+#EXTINF:10.000000, BBC America
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:10.000000,TVG-ID="6" tvg-name="BBC World"
+#EXTINF:10.000000, BBC World
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:10.000000,TVG-ID="7" tvg-name="BEIN Sports"
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
