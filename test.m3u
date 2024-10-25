@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:20,index.m3u8
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:21,index.m3u8
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
